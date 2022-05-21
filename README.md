@@ -1,5 +1,4 @@
 # KOMU: Korea Mudah Privacy Policy
----
 
 Selamat Datang di KOMU: Korea Mudah
 
